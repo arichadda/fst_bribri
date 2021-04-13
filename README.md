@@ -14,4 +14,4 @@ A transducer that takes Bribri words as input and gives you the meaning of the m
 Input:aleH
 Output:cook-IPFV
 ```
-https://github.com/arichadda/fst_bribri/blob/master/Screen%20Shot%202021-04-11%20at%201.09.28%20PM.png
+https://raw.githubusercontent.com/arichadda/fst_bribri/master/Screen%20Shot%202021-04-11%20at%201.09.28%20PM.png?token=AOHG2OIBCNVFAKTB5PMWJO3AOUH4K
